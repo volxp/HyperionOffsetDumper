@@ -2,7 +2,7 @@
 Dump Offsets wich are Required for most Roblox Manualmapper injectors.
 
 ## Offsets
-** this dumper dumps:**
+**this dumper dumps:**
 - BitMap
 - PageHash
 - BitMapHash
